@@ -7,7 +7,7 @@ AI Finance Tracker is a full-stack web application that helps users track expens
 - Frontend: React
 - Backend: Django, Django REST Framework
 - Database: PostgreSQL
-- Authentication: JWT (planned)
+- Authentication: JWT
 - AI: Basic ML models (planned)
 
 ## Features
