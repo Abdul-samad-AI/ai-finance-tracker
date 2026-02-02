@@ -3,7 +3,6 @@
 # 💰 AI Finance Tracker  
 ### Full Stack Web Application — Frontend Phase
 
-<<<<<<< HEAD
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
@@ -11,14 +10,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
 </p>
-=======
 ## Tech Stack
 - Frontend: React
 - Backend: Django, Django REST Framework
 - Database: PostgreSQL
 - Authentication: JWT
 - AI: Basic ML models (planned)
->>>>>>> 5133325458b33d81a7e2fc395422254c3ad30914
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Frontend%20Completed%20(Day%203)-success"/>
@@ -39,7 +36,7 @@ This repository currently represents **Phase 1 — Frontend Foundation**.
 
 ---
 
-## 🎯 Current Phase: Frontend API Integration (Completed till Day 3)
+## 🎯 Current Phase: Frontend API Integration
 
 This phase focuses on building a **robust frontend foundation** capable of handling real API interactions and production-like UI behavior.
 
